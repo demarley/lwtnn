@@ -1,4 +1,4 @@
-#include "lwtnn/Stack.hh"
+#include "lwtnn/lwtnn/interface/Stack.hh"
 #include <Eigen/Dense>
 
 #include <set>

@@ -1,4 +1,4 @@
-#include "lwtnn/parse_json.hh"
+#include "lwtnn/lwtnn/interface/parse_json.hh"
 
 #include <boost/property_tree/ptree.hpp>
 #include <boost/property_tree/json_parser.hpp>

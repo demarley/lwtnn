@@ -1,4 +1,4 @@
-#include "lwtnn/LightweightNeuralNetwork.hh"
+#include "lwtnn/lwtnn/interface/LightweightNeuralNetwork.hh"
 
 #include <Eigen/Dense>
 

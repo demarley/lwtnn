@@ -1,6 +1,6 @@
-#include "lwtnn/LightweightNeuralNetwork.hh"
-#include "lwtnn/Stack.hh"
-#include "lwtnn/parse_json.hh"
+#include "lwtnn/lwtnn/interface/LightweightNeuralNetwork.hh"
+#include "lwtnn/lwtnn/interface/Stack.hh"
+#include "lwtnn/lwtnn/interface/parse_json.hh"
 
 #include <Eigen/Dense>
 

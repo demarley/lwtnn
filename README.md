@@ -144,6 +144,27 @@ level interface is implemented as `RecurrentStack`. See
 Again, the corresponding model in Keras can be tested with
 `lwtnn-test-keras-rnn.py`.
 
+
+CMSSW Compatibility
+-------------------
+
+Local branch `CMSSW_8_0_X-compatible` by Dan is compatible with CMSSW release 8_0_X.  
+This is based on lwtnn tag v2.0. Future updates (to maintain in parallel with lwtnn developments)
+will be provided as needed.  
+_This has been explicitly tested with 8_0_24_patch1 and 8_0_26_patch1_
+
+This is intended to be used in a CMSSW environment.  
+From the `src/` directory, after setting up a CMSSW environment, you can simply:
+
+```
+mkdir lwtnn
+cd lwtnn
+git clone https://github.com/demarley/lwtnn.git
+git checkout CMSSW_8_0_X-compatible
+cd lwtnn
+scram b -j8
+```
+
 Have problems?
 --------------
 

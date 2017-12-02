@@ -1,4 +1,4 @@
-#include "lwtnn/NanReplacer.hh"
+#include "lwtnn/lwtnn/interface/NanReplacer.hh"
 
 #include <cmath>  // NAN
 #include <limits> // check for NAN

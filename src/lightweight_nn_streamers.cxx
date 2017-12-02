@@ -1,5 +1,5 @@
-#include "lwtnn/lightweight_nn_streamers.hh"
-#include "lwtnn/NNLayerConfig.hh"
+#include "lwtnn/lwtnn/interface/lightweight_nn_streamers.hh"
+#include "lwtnn/lwtnn/interface/NNLayerConfig.hh"
 
 #include <vector>
 #include <string>

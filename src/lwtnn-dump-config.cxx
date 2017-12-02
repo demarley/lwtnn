@@ -1,5 +1,5 @@
-#include "lwtnn/parse_json.hh"
-#include "lwtnn/lightweight_nn_streamers.hh"
+#include "lwtnn/lwtnn/interface/parse_json.hh"
+#include "lwtnn/lwtnn/interface/lightweight_nn_streamers.hh"
 
 #include <iostream>
 #include <string>
