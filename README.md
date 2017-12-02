@@ -165,6 +165,11 @@ cd lwtnn
 scram b -j8
 ```
 
+In the `BuildFile.xml` of your project, include the lines:
+```
+<use name="lwtnn/lwtnn"/>
+```
+
 Have problems?
 --------------
 
