@@ -160,8 +160,8 @@ From the `src/` directory, after setting up a CMSSW environment, you can simply:
 mkdir lwtnn
 cd lwtnn
 git clone https://github.com/demarley/lwtnn.git
-git checkout CMSSW_8_0_X-compatible
 cd lwtnn
+git checkout CMSSW_8_0_X-compatible
 scram b -j8
 ```
 
