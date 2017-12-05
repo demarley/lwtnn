@@ -1,7 +1,7 @@
 #ifndef PARSE_JSON_HH
 #define PARSE_JSON_HH
 
-#include "lwtnn/interface/NNLayerConfig.hh"
+#include "lwtnn/lwtnn/interface/NNLayerConfig.hh"
 
 #include <istream>
 #include <map>
