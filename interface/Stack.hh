@@ -20,8 +20,8 @@
 //  - Preprocessor classes
 
 
-#include "lwtnn/interface/Exceptions.hh"
-#include "lwtnn/interface/NNLayerConfig.hh"
+#include "lwtnn/lwtnn/interface/Exceptions.hh"
+#include "lwtnn/lwtnn/interface/NNLayerConfig.hh"
 
 #include <Eigen/Dense>
 
